@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cactus"
+        },
+        "title": {
+            "translate": "Get Pricked!"
+        },
+        "description": {
+            "translate": "Adds prick damage to blocks that are missing it."
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:izukika",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
