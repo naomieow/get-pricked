@@ -1,5 +1,5 @@
 {
     "values": [
-        "rpgtitles:load"
+        "#load:_private/load"
     ]
 }
