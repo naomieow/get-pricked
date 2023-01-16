@@ -1,0 +1,1 @@
+function getpricked:clocks/1s
