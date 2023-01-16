@@ -1,5 +1,6 @@
 {
     "values": [
+        "getpricked:load",
         "#load:_private/load"
     ]
 }
